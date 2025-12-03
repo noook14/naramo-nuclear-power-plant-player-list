@@ -3,3 +3,5 @@ archive useful for players and developers, moderators and creator
 | # | user | status |
 |:---------|:---------|:---------|
 | 1 | lisikon | player |
+| 2 | ievidygw | player |
+| 3 | hoticeAazadhi | player |
